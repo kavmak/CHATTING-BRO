@@ -1,11 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CHATTING BRO - A Real-Time Web Based Chat Application
 
 # Details 
-   Name: Kavya Sharma
-   Institute: Indian Institute of Technology(ISM) Dhanbad
-   Department: Civil Engineering
+# Name: Kavya Sharma
+# Institute: Indian Institute of Technology(ISM) Dhanbad
+# Department: Civil Engineering
 
 # To run the project
    
@@ -29,7 +27,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
    `npm run start` to start the fronted server
 
-   # Ensure that MongoDB is running in the background for database operations.
-  # Additionally, in the connection.js file located in the db folder, update the MongoDB URL accordingly.
+# Ensure that MongoDB is running in the background for database operations.
+# Additionally, in the connection.js file located in the db folder, update the MongoDB URL accordingly.
 
 
